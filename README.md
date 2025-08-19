@@ -1,4 +1,12 @@
-## Hi there 👋
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/fa55322b-1810-41b1-81c4-91fe5456806e" />
+## Data Analyst
+---
+Estudande de Ciência da Computação no Centro Universitário Uniesp. Apaixonado por Análise de dados e atualmente aprendendo Ciência de Dados e Machine Learning.
+Links:
+  https://www.linkedin.com/in/patryck-willyams-90384017b/
+---
+Projetos:
+  
 
 <!--
 **p-willyams/p-willyams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
