@@ -1,24 +1,37 @@
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/fa55322b-1810-41b1-81c4-91fe5456806e" />
-## Data Analyst
+<img width="2048" height="644" alt="hg;" src="https://github.com/user-attachments/assets/99af05e8-f05c-4e83-aff7-fd5b628d0076" />
+
+
+
+## Data Analyst  
+
+Computer Science student at Centro Universitário Uniesp.  
+Passionate about Data Analysis and currently learning Data Science and Machine Learning.  
+Interested in transforming data into practical insights and supporting strategic decisions.  
+
 ---
-Estudande de Ciência da Computação no Centro Universitário Uniesp. Apaixonado por Análise de dados e atualmente aprendendo Ciência de Dados e Machine Learning.
-Links:
-  https://www.linkedin.com/in/patryck-willyams-90384017b/
+
+## Links  
+- [LinkedIn](https://www.linkedin.com/in/patryck-willyams-90384017b/)  
+
 ---
-Projetos:
+
+## Projects  
+- **Bank Marketing Campaign Analysis:**
   
+  Data analysis of Portuguese bank marketing campaigns to identify key factors influencing term deposit acceptance. The study reveals that call duration, contact history, and customer profiles strongly impact 
+  conversion, providing clear strategies to improve efficiency and target high-potential clients.
 
-<!--
-**p-willyams/p-willyams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## Tools and Technologies  
+- Python (Pandas, NumPy, Matplotlib, Seaborn)  
+- SQL  
+- Excel & Power BI  
+- Git & GitHub  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Goal  
+To work as a Data Analyst, developing solutions that help companies make data-driven decisions, and soon become a Data Scientist
+
+
