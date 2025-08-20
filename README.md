@@ -17,7 +17,7 @@ Interested in transforming data into practical insights and supporting strategic
 ---
 
 ## Projects  
-- **Bank Marketing Campaign Analysis:**
+- **Bank Marketing Campaign Analysis: https://github.com/p-willyams/Bank-Marketing-Campaign-Analysis.git**
   
   Data analysis of Portuguese bank marketing campaigns to identify key factors influencing term deposit acceptance. The study reveals that call duration, contact history, and customer profiles strongly impact 
   conversion, providing clear strategies to improve efficiency and target high-potential clients.
