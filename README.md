@@ -3,10 +3,10 @@
 
 
 
-## Data Analyst  
+## Data Scientist
 
 Computer Science student at Centro Universitário Uniesp.  
-Passionate about Data Analysis and currently learning Data Science and Machine Learning.  
+Passionate about Data Science and Machine Learning.  
 Interested in transforming data into practical insights and supporting strategic decisions.  
 
 ---
