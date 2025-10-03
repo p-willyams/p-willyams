@@ -12,7 +12,8 @@ Interested in transforming data into practical insights and supporting strategic
 ---
 
 ## Links  
-- [LinkedIn](https://www.linkedin.com/in/patryck-willyams-90384017b/)  
+- [LinkedIn](https://www.linkedin.com/in/patryck-willyams-90384017b/)
+- [Portifolio](https://p-willyams.github.io/portfolio_projetos/)
 
 ---
 
