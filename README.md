@@ -1,44 +1,65 @@
 <img width="4096" height="1288" alt="hg;(2) (1)" src="https://github.com/user-attachments/assets/1ddc542a-20a7-44e2-bf48-f12f4e75b202" />
 
+## Hi, I'm Patryck Willyams
 
+### Data Scientist | Machine Learning | Python
 
+Computer Science student at **Centro Universitário UNIESP (Brazil)**, focused on **Data Science, Machine Learning and Statistical Modeling**.
+I build data-driven solutions that transform complex data into **practical business impact**.
 
-## Data Scientist
-
-Computer Science student at Centro Universitário Uniesp.  
-Passionate about Data Science and Machine Learning.  
-Interested in transforming data into practical insights and supporting strategic decisions.  
-
----
-
-## Links  
-- [LinkedIn](https://www.linkedin.com/in/patryck-willyams-90384017b/)
-- [Portfolio](https://pwillyams.lovable.app)
+Currently working as a **Junior Data Scientist (Remote)**, developing predictive models and data-driven solutions for real-world business problems.
 
 ---
 
-## Projects  
-- [**End-To-End-Rossman-Sales-Prediction**](https://github.com/p-willyams/end-to-end-rossmansales-prediction.git)
+## Links
 
-  This project aimed to develop a predictive model to estimate store sales for the next six weeks across a pharmacy retail chain. By leveraging historical sales data, store attributes, promotions, and temporal features, the model provides actionable insights to guide strategic decisions, such as     investments, renovations, and marketing campaigns.
-  The workflow included data cleaning, exploratory analysis, feature engineering, model training, and validation using advanced Machine Learning techniques. The outcome supports optimized resource allocation and improved planning, enabling the company to anticipate sales trends and make more         informed business decisions.
-
-- [**Bank Marketing Campaign Analysis**](https://github.com/p-willyams/Bank-Marketing-Campaign-Analysis.git)
-
-  Data analysis of Portuguese bank marketing campaigns to identify key factors influencing term deposit acceptance. The study reveals that call duration, contact history, and customer profiles strongly impact 
-  conversion, providing clear strategies to improve efficiency and target high-potential clients.
+* [LinkedIn](https://www.linkedin.com/in/patryck-willyams)
+* [Portfolio](https://pwillyams.lovable.app/)
 
 ---
 
-## Tools and Technologies  
-- Python (Pandas, NumPy, Matplotlib, Seaborn)  
-- SQL  
-- Excel & Power BI  
-- Git & GitHub  
+## Featured Projects
+
+### [End-To-End Rossmann Sales Prediction](https://github.com/p-willyams/end-to-end-rossmansales-prediction.git)
+
+Predictive model to forecast **six weeks of store sales** using historical data, promotions and temporal features.
+Includes data cleaning, feature engineering, model training and business-oriented insights for **strategic planning and investment decisions**.
 
 ---
 
-## Goal  
-To work as a Data Analyst, developing solutions that help companies make data-driven decisions, and soon become a Data Scientist
+### [Home Credit Default Risk](https://github.com/p-willyams/home_credit_default_risk.git)
+
+Built a **credit default risk prediction model** using +800 features and highly imbalanced data.
+Achieved strong ranking metrics and generated an **estimated incremental business gain of R$ 6.39 million** by optimizing credit decisions.
+
+---
+
+## Tech Stack
+
+* **Languages:** Python, SQL, R (Basic), JavaScript
+* **Data Science:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, TensorFlow
+* **ML Techniques:** Supervised & Unsupervised Learning, XGBoost, Random Forest, SVM, K-Means
+* **Databases:** MySQL, SQLite
+* **Visualization & Apps:** Power BI, Streamlit
+* **Tools:** Git, GitHub, Google Colab, Jupyter Notebook
+
+---
+
+## Professional Experience
+
+**Junior Data Scientist (Remote) — Comunidade DS**
+*Oct 2024 – Present*
+
+* Built predictive and classification models for real business cases
+* Performed data cleaning, feature engineering and model optimization
+* Improved model performance by **10% (AUC / F1)** through hyperparameter tuning
+* Reduced prediction error by **15%**
+* Automated ML pipelines, reducing experimentation time by **30%**
+
+---
+
+## Career Goal
+
+To work as a **Data Scientist**, building scalable machine learning solutions that improve business decision-making and generate measurable impact.
 
 
