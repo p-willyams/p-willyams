@@ -34,6 +34,13 @@ Achieved strong ranking metrics and generated an **estimated incremental busines
 
 ---
 
+### [Health Insurance Cross Sell Prediction](https://github.com/p-willyams/health_insurance_cross_sell_prediction.git)
+
+Predictive cross-sell model ranking 76k health insurance customers by likelihood of buying vehicle insurance. 
+Delivers strong performance (AUC 0.858) and boosts campaign profit from R$762k to **R$2.02M (+165% ROI)** by targeting the top 20% most likely buyers.
+
+---
+
 ## Tech Stack
 
 * **Languages:** Python, SQL, R (Basic), JavaScript
