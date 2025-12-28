@@ -41,7 +41,7 @@ Delivers strong performance (AUC 0.858) and boosts campaign profit from R$762k t
 
 ---
 
-### [Insiders Program — High-Value Customer Segmentation for E-Commerce](https://github.com/p-willyams/high_value_costumer_indentification.git)
+### [Insiders Program - High-Value Customer Segmentation for E-Commerce](https://github.com/p-willyams/high_value_costumer_indentification.git)
 
 Customer segmentation project for an e-commerce business using **GMM clustering** to identify **high-value (Insider) clients**. Segments customers into 6 behavioral groups, defines eligibility rules for a VIP program, estimates revenue impact, and supports data-driven marketing, CRM, and retention strategies. 
 
