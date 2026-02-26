@@ -56,23 +56,4 @@ Customer segmentation project for an e-commerce business using **GMM clustering*
 * **Visualization & Apps:** Power BI, Streamlit
 * **Tools:** Git, GitHub, Google Colab, Jupyter Notebook
 
----
-
-## Professional Experience
-
-**Junior Data Scientist (Remote) — Comunidade DS**
-*Oct 2024 – Present*
-
-* Built predictive and classification models for real business cases
-* Performed data cleaning, feature engineering and model optimization
-* Improved model performance by **10% (AUC / F1)** through hyperparameter tuning
-* Reduced prediction error by **15%**
-* Automated ML pipelines, reducing experimentation time by **30%**
-
----
-
-## Career Goal
-
-To work as a **Data Scientist**, building scalable machine learning solutions that improve business decision-making and generate measurable impact.
-
 
