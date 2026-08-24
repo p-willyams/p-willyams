@@ -27,7 +27,7 @@ Includes data cleaning, feature engineering, model training and business-oriente
 
 ---
 
-### [Databricks Credit Risk Modelling](https://github.com/p-willyams/home_credit_default_risk.git)
+### [Databricks Credit Risk Modelling](https://github.com/p-willyams/credit_databricks)
 
 Projeto de Credit Risk desenvolvido na Databricks, utilizando Spark, Feature Store, MLflow e XGBoost em um pipeline end-to-end. O modelo alcançou **AUC-ROC de 0,9753 e KS de 0,8497**, reduzindo a inadimplência em **50%** e as perdas financeiras em **R$ 32,5 milhões**, mantendo a taxa de aprovação.
 
