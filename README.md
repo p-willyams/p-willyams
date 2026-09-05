@@ -22,14 +22,13 @@ Currently working as a **Data Scientist**, developing predictive models and data
 
 ### [Rossmann Sales Forecast](https://github.com/p-willyams/rossman-sales-forecast.git)
 
-Projeto de previsão de vendas para uma rede de farmácias, com pipeline de Feature Store (SQL) e modelagem em Python usando XGBoost, com hiperparâmetros otimizados via Optuna. O modelo estima o total de vendas dos próximos 42 dias por loja, alcançando R² de 0,9461 e MAPE de 5,20% no período Out-of-Time, com 240 features construídas a partir do histórico de vendas, clientes e promoções.
+Sales forecasting project for a pharmacy chain, with a SQL-based Feature Store pipeline and Python modeling using XGBoost, hyperparameter-tuned with Optuna. The model estimates total sales for the next 42 days per store, achieving R² of 0.9461 and MAPE of 5.20% on the Out-of-Time period, using 240 features built from sales history, customers, and promotions.
 
 ---
 
 ### [Databricks Credit Risk Modelling](https://github.com/p-willyams/credit_databricks)
 
-Projeto de Credit Risk desenvolvido na Databricks, utilizando Spark, Feature Store, MLflow e XGBoost em um pipeline end-to-end. O modelo alcançou **AUC-ROC de 0,9753 e KS de 0,8497**, reduzindo a inadimplência em **50%** e as perdas financeiras em **R$ 32,5 milhões**, mantendo a taxa de aprovação.
-
+Credit Risk project developed on Databricks, using Spark, Feature Store, MLflow, and XGBoost in an end-to-end pipeline. The model achieved an AUC-ROC of 0.9753 and KS of 0.8497, reducing default by 50% and financial losses by R$ 32.5 million, while maintaining the same approval rate.
 
 ---
 
