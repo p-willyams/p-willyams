@@ -7,7 +7,7 @@
 Computer Science student at **Centro Universitário UNIESP (Brazil)**, focused on **Data Science, Machine Learning and Statistical Modeling**.
 I build data-driven solutions that transform complex data into **practical business impact**.
 
-Currently working as a **Junior Data Scientist (Remote)**, developing predictive models and data-driven solutions for real-world business problems.
+Currently working as a **Data Scientist**, developing predictive models and data-driven solutions for real-world business problems.
 
 ---
 
@@ -20,10 +20,9 @@ Currently working as a **Junior Data Scientist (Remote)**, developing predictive
 
 ## Featured Projects
 
-### [End-To-End Rossmann Sales Prediction](https://github.com/p-willyams/end-to-end-rossmansales-prediction.git)
+### [Rossmann Sales Forecast](https://github.com/p-willyams/rossman-sales-forecast.git)
 
-Predictive model to forecast **six weeks of store sales** using historical data, promotions and temporal features.
-Includes data cleaning, feature engineering, model training and business-oriented insights for **strategic planning and investment decisions**.
+Projeto de previsão de vendas para uma rede de farmácias, com pipeline de Feature Store (SQL) e modelagem em Python usando XGBoost, com hiperparâmetros otimizados via Optuna. O modelo estima o total de vendas dos próximos 42 dias por loja, alcançando R² de 0,9461 e MAPE de 5,20% no período Out-of-Time, com 240 features construídas a partir do histórico de vendas, clientes e promoções.
 
 ---
 
